@@ -1,0 +1,109 @@
+[
+  {
+    "name": "toffee",
+    "id" : "Math.random()",
+    "img": "../SRC/toffee.png",
+    "price": 30,
+    "originalPrice": 730,
+    "duration": 1,
+    "about": "Toffee is Bangladesh's premier video streaming app, launched in 6 November, 2019. Since its launch."
+  },
+  {
+    "name": "chorki",
+    "id" : "Math.random()",
+    "img": "../SRC/Chorki.jpg",
+    "price": 50,
+    "originalPrice": 600,
+
+    "duration": 1,
+    "about": "Chorki is one of the best ott platform app where people enjoy huge entertainment. This is a paid ott platform in Bangladesh"
+  },
+  {
+    "name": "bongo",
+    "id" : "Math.random()",
+    "img": "../SRC/bongo.png",
+    "price": 30,
+    "originalPrice": 400,
+
+    "duration": 1,
+    "about": "Bongo is one of the best ott platform app where people enjoy huge entertainment. This is a paid ott platform in Bangladesh"
+  },
+
+  {
+    "name": "hoichoi",
+    "id" : "Math.random()",
+    "img": "../SRC/hoichoi.png",
+    "price": 50,
+    "originalPrice": 711,
+
+    "duration": 1,
+    "about": "hoichoi is an on-demand video streaming platform for Bengalis worldwide, offering an extensive collection of 600+ Bengali movies, 135+ original web series."
+  },
+  {
+    "name": "netflix",
+    "id" : "Math.random()",
+    "img": "../SRC/netflix.jpg",
+    "price": 50,
+    "originalPrice": 3600,
+
+    "duration": 1,
+    "about": "Netflix is a subscription-based streaming service that allows our members to watch TV shows and movies on an internet-connected device.   "
+  },
+  {
+    "name": "disney+ hotstar",
+    "id" : "Math.random()",
+    "img": "../SRC/disney-hotstar.jpg",
+    "price": 50,
+    "originalPrice": 10000,
+
+    "duration": 1,
+    "about": "Disney+ Hotstar is an Indian subscription video on-demand over-the-top streaming service owned by The Walt Disney Company India and operated by Disney Streaming"
+  },
+  {
+    "name": "shadhin music",
+    "id" : "Math.random()",
+    "img": "../SRC/shadinmusic.jpg",
+    "price": 20,
+    "originalPrice": 100,
+
+    "duration": 1,
+    "about": "Shadhin Music is a music streaming platform in Bangladesh. Our goal is to win the hearts of 300 million Bangla-speaking users worldwide"
+  },
+  {
+    "name": "canva pro",
+    "id" : "Math.random()",
+    "img": "../SRC/canva.jpg",
+    "price": 80,
+    "originalPrice": 5000,
+
+    "duration": 1,
+    "about": "The program lets you create presentations, social media posts, posters, pamphlets, and other forms of visual content"
+  },
+  {
+    "name": "1000+ tv channel",
+    "id" : "Math.random()",
+    "img": "../SRC/tv.jpg",
+    "price": 50,
+    "originalPrice": 2000,
+    "duration": "life time",
+    "about": "In this app you will find more than 1000+ Bangla, English, Hindi Tv Channel Here You can watch your favorite movies and tv series"
+  },
+  {
+    "name": "youtube premium",
+    "id" : "Math.random()",
+    "img": "../SRC/youtubepro.png",
+    "price": 50,
+    "originalPrice": 3600,
+    "duration": 1,
+    "about": "You get all the premium features of Youtube for one Year"
+  },
+  {
+    "name": "free internet",
+    "id" : "Math.random()",
+    "img": "../SRC/freeinternet.jpg",
+    "price": 50,
+    "originalPrice": 1400,
+    "duration": "life time",
+    "about": "through these apps you can use the internet for free all your life without buying the internet pack. "
+  }
+]

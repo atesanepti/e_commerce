@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="../SRC/favIcon.svg" type="image/x-icon" />
+    <link rel="stylesheet" href="../CSS/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+
+    <title>OTT Plans</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="logo">
+          <a href="index.html">
+            <img src="../SRC/logo.png" alt="logo" />
+            <h1><span>A</span><span>buy</span></h1>
+          </a>
+        </div>
+        <ul class="nav" id="nav">
+          <li><a href="../index.html">Home</a></li>
+          <li class="toggleMenu">
+            <a href="#" id="toggleMenuBtn">
+              Product
+              <i class="fa-solid fa-caret-up"></i>
+            </a>
+            <ul class="subMenu">
+              <li><a href="ott.html">OTT Subscription</a></li>
+              <li><a href="course.html">Digital Course</a></li>
+              <li><a href="metarial.html">Digital Matarial</a></li>
+            </ul>
+          </li>
+          <li><a href="#footer">Contact Us</a></li>
+        </ul>
+        <div class="buyBtn">
+          <button id="buy">Buy</button>
+        </div>
+        <div class="menuIocn" id="menuIcon">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+      </div>
+    </header>
+    <section id="products">
+      <div class="container">
+        <div class="search">
+          <input type="text" placeholder="Search here" id="searchInput" />
+          <button id="searchBtn">Search</button>
+        </div>
+        <div class="sectionTitle">
+          <h2>Find Product</h2>
+          <p>find the plan you want</p>
+        </div>
+        <div class="products"></div>
+        <div class="viewBtn">
+          <button><i class="fa-solid fa-arrows-rotate"></i></button>
+        </div>
+      </div>
+    </section>
+    <section id="discount">
+      <div class="container">
+        <h1>
+          <span>90% <i class="fa-solid fa-tag"></i></span> discount is on
+        </h1>
+      </div>
+    </section>
+    <section id="feedback">
+      <div class="container">
+        <div class="sectionTitle">
+          <h2>Feedback</h2>
+          <p>Your opinion about our site.</p>
+        </div>
+        <div class="feedback ott">
+          <div class="feedbackForm">
+            <label for="name">*Full Name</label>
+            <input type="text" id="name" placeholder="name here" />
+            <label for="email">*Email</label>
+            <input type="email" id="name" placeholder="email here" />
+            <label for="message">*Message</label>
+            <textarea name="" id="message" ols="30" rows="10" placeholder="message here"></textarea>
+            <button>Send <i class="fa-solid fa-paper-plane"></i></button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer id="footer">
+      <div class="container">
+        <div class="category">
+          <h5><i class="fa-solid fa-chart-simple"></i> Category</h5>
+          <a href="#">Netflix</a>
+          <a href="#">Amazon Prime</a>
+          <a href="#">Hotstar+</a>
+          <a href="#">Hoicoi</a>
+          <a href="#">Bongo</a>
+          <a href="#">Toffee</a>
+          <a href="#">Chorki</a>
+        </div>
+        <div class="category">
+          <h5>---</h5>
+          <a href="#">Web Design</a>
+          <a href="#">Web Development</a>
+          <a href="#">Graphic Design</a>
+          <a href="#">Digital Marketing</a>
+          <a href="#">Ethical Hacking</a>
+          <a href="#">Spoken English</a>
+          <a href="#">Game Development</a>
+        </div>
+        <div class="contact">
+          <h5><i class="fa-solid fa-address-book"></i> Contact</h5>
+          <div class="logo">
+            <a href="index.html">
+              <img src="../SRC/logo.png" alt="logo" />
+              <h1><span>A</span><span>buy</span></h1>
+            </a>
+          </div>
+          <a href="https://www.facebook.com/EptiNehal">Facebook</a>
+          <a href="mailto: epti060@gmail.com">Email</a>
+        </div>
+      </div>
+    </footer>
+    <script src="../JS/script.js"></script>
+    <script type="module" src="../JS/ott.js"></script>
+  </body>
+</html>

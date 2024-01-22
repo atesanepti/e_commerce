@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Copyright Removal (New)",
+    "id": "Math.random()",
+    "img": "../SRC/codingfile.jpg",
+    "src": "../HTML/buyCodingflie.html",
+    "price": 300,
+    "originalPrice": 3000,
+    "about": "Toffee is Bangladesh's premier video streaming app, launched in 6 November, 2019. Since its launch."
+  },
+  {
+    "name": "Copyright Removal(Mobile Verison)",
+    "id": "Math.random()",
+    "img": "../SRC/codingfilemobile.jpg",
+    "src": "../HTML/buyCodingFileMob.html",
+    "price": 300,
+    "originalPrice": 300,
+    "about": "Chorki is one of the best ott platform app where people enjoy huge entertainment. This is a paid ott platform in Bangladesh"
+  },
+  {
+    "name": "Copyright Removal (All New)",
+    "id": "Math.random()",
+    "img": "../SRC/codingfilepro.jpg",
+    "src": "../HTML/buyCodingFilePro.html",
+    "price": 500,
+    "originalPrice": 4000,
+    "about": "Bongo is one of the best ott platform app where people enjoy huge entertainment. This is a paid ott platform in Bangladesh"
+  }
+]
